@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+    <movie>
+        <movieTitle>Brokeback Mountain</movieTitle>
+        <profit>178000000</profit>
+        <movieGenre>Romance</movieGenre>
+        <releaseDate>2005-12-09</releaseDate>
+        <platform>Netflix</platform>
+    </movie>
+
+    <movie>
+        <movieTitle>Chainsaw Man: Reze Arc</movieTitle>
+        <profit>168000000</profit>
+        <movieGenre>Animation</movieGenre>
+        <releaseDate>2025-10-19</releaseDate>
+        <platform>Amazon Video</platform>
+    </movie>
+
+    <movie>
+        <movieTitle>Frankenstein</movieTitle>
+        <profit>112000000</profit>
+        <movieGenre>Horror</movieGenre>
+        <releaseDate>2025-10-17</releaseDate>
+        <platform>Netflix</platform>
+    </movie>
+
+    <movie>
+        <movieTitle>Ninjago</movieTitle>
+        <profit>2923706026</profit>
+        <movieGenre>Comedy</movieGenre>
+        <releaseDate>2017-09-21</releaseDate>
+        <platform>Netflix</platform>
+    </movie>
+</movies>
